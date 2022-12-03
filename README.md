@@ -3,7 +3,8 @@
 Использованное ПО: UCSF Chimera
 
 Выбранная структура белка: 1BZ0
-Ссылка: ![тык](https://www.rcsb.org/structure/1BZ0)
+
+Ссылка: [тык](https://www.rcsb.org/structure/1BZ0)
 
 # Визуализация различными способами
 
