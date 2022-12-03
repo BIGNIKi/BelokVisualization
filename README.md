@@ -59,3 +59,6 @@ file -> fetch by id -> pdb -> 1BZ0 -> fetch
 7. Select -> chain -> C; Actions -> color -> orange
 8. Select -> chain -> D; Actions -> color -> yellow
 ![Domen coloring](/domenColoring.png)
+
+## Изображение публикационного качества
+![public](/image.png)
